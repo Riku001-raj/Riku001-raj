@@ -1,5 +1,5 @@
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Nice+To+Meet+You;Hi👋+I'm+Pranab+Nandi+..;I'm+a+Computer+Science+Engineering+Student+...;I'm+a+Youtuber;Freelancer+Available;Learner+Coder;Nice+To+Meet+You+....&center=true"></a></h1>
+    <img src="https://readme-typing-svg.herokuapp.com?color=E22FE4&width=380&height=28&lines=Nice+To+Meet+You;Hi👋+I'm+Pranab+Nandi+..;I'm+a+Co+Computer+Science+Engineering+Student+...;I'm+a+Youtuber;Freelancer+Available;Learner+Coder;Nice+To+Meet+You+....&center=true"></a></h1>
 
 
 - 🔭 I’m currently studying
