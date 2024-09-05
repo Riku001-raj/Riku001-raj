@@ -40,20 +40,20 @@
 </div>
 
 ### Skills 📊:
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,java,c,github,git)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,python,java,c,github,git)](https://skillicons.dev)
 
 ### Gɪᴛʜᴜʙ Sᴛᴀᴛs 📈:
 
-![Anjana Karmakar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Anjana113-hub&show_icons=true&theme=dark&rank_icon=github)
+![Pranab Nandi's GitHub stats](https://github-readme-stats.vercel.app/api?username=Riku001-raj&show_icons=true&theme=dark&rank_icon=github)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Anjana113-hub&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Riku001-raj&theme=dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Anjana113-hub&theme=radical&hide_border=false)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Riku001-raj&theme=radical&hide_border=false)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Anjana113-hub&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Riku001-raj&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 <!--START_SECTION:waka-->
 
 
 <br>
-⭐️ From [Anjana Karmakar](https://codsoft-task1-portfolio-alpha.vercel.app)
+⭐️ From [Pranab Nandi](https://codsoft-task1-portfolio-alpha.vercel.app)
